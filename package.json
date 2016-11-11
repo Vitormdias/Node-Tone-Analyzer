@@ -1,0 +1,24 @@
+{
+  "name": "node-tone-analyzer",
+  "version": "1.0.0",
+  "description": "Node app that uses watson tone analyzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitormdias/Node-Tone-Analyzer.git"
+  },
+  "author": "Vitor Manfre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitormdias/Node-Tone-Analyzer/issues"
+  },
+  "homepage": "https://github.com/Vitormdias/Node-Tone-Analyzer#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "watson-developer-cloud": "^2.8.2"
+  }
+}
